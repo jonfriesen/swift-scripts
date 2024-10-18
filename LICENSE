@@ -2,11 +2,13 @@ Modified MIT License
 
 Copyright (c) 2024 Jon Friesen
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software without restriction, including without limitation the rights to use and modify the Software, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, modify, and share the Software, subject to the following conditions:
 
-1. The Software may only be used for personal, non-commercial purposes.
-2. The Software may not be distributed, sublicensed, or made available to any third party.
-3. No person may sell, rent, lease, or otherwise profit directly from the Software.
-4. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+1. The Software may be used for personal and non-commercial purposes without restriction.
+2. The Software may be shared, forked, or distributed for purposes of collaboration, bug reporting, or non-commercial open source development.
+3. The Software may not be included, in whole or in part, in any commercial product or service without explicit written permission from the copyright holder.
+4. No person or entity may sell, rent, lease, or otherwise profit directly from the Software without explicit written permission from the copyright holder.
+5. Any distribution or sharing of the Software must include this license and copyright notice.
+6. Contributors to the Software agree to grant the same rights to their contributions as granted for the original Software under this license.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
