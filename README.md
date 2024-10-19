@@ -1,8 +1,14 @@
 # Swift Scripts - MacOS Swift Utilities
 
+> ⚠️ **Project Archived**
+>
+> This project was an experiment in utilizing Swift as a scripting language for MacOS native APIs. While the concept showed promise, I encountered significant challenges in creating a seamless distribution and installation process, which ultimately conflicted with my goal of providing easily accessible utilities. As a result, I've decided to archive this project for now.
+
 This repository is a collection of Swift scripts designed to enhance functionality on MacOS machines. These scripts aim to replace many application-based utilities with simple, efficient, and customizable command-line tools.
 
 ## Overview
+
+![icons](./images/icons.png)
 
 The project currently includes the following utilities:
 
@@ -11,6 +17,8 @@ The project currently includes the following utilities:
 - Key Binds (`key-binds.swift`): Implements custom key bindings for enhanced productivity.
 
 Additional utility scripts and snippets are available in the `snippets` directory.
+
+![scroll-reverser](./images/scroll-reverser.png)
 
 ## Installation
 
